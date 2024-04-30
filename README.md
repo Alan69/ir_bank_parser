@@ -15,7 +15,7 @@ This Python script allows you to scrape firm data from the Central Bank of Irela
 1. Clone this repository to your local machine:
 
 ```bash
-git clone https://github.com/yourusername/central-bank-firm-scraper.git
+git clone https://github.com/Alan69/central-bank-firm-scraper.git
 ```
 
 2. Install the required Python packages using pip:
